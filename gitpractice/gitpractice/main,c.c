@@ -7,6 +7,6 @@ int product(int a, int b)
 
 void main()
 {
-	printf("KK\n");
+	printf("FF\n");
 	printf("sum(4, 5) = %d\n", product(4, 5));
 }
