@@ -7,6 +7,6 @@ int product(int a, int c)
 
 void main()
 {
-	printf("EE\n");
+	printf("ZZ\n");
 	printf("sum(4, 5) = %d\n", product(4, 5));
 }
