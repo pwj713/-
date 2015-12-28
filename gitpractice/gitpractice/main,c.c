@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int product(int a, int b)
+int product(int a, int c)
 {
-	return a * b;
+	return a * c;
 }
 
 void main()
